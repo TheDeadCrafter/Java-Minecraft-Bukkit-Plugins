@@ -1,0 +1,16 @@
+name: PlayerChatScripts
+main: me.bukkit.firstflames.playerChatScripts.playerScripts
+version: 1.0
+commands:
+     John1:
+      description: Surprise! 
+      usage: /<command>
+     John2:
+      description: Surprise! 
+      usage: /<command>
+     John3:
+      description: Surprise! 
+      usage: /<command>
+
+
+   

@@ -1,0 +1,11 @@
+name: webPlug
+main: me.bukkit.firstflames.websitePlugin.WebsiteCommand
+version: 1.0
+commands:
+   website:
+      description: Display's website address
+      usage: /<command>
+   godGo:
+      description: In testing
+      usage: /<command>
+

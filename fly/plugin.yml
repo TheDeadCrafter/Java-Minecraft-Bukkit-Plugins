@@ -1,0 +1,7 @@
+name: Fly
+main: me.bukkit.fly.fly
+version: 1.0
+commands:
+     fly:
+       description: Enables fly
+       usage: /<command>

@@ -1,0 +1,13 @@
+name: EmeraldArmor
+main: me.bukkit.firstflames.EmeraldArmor.EmeraldArmor
+version: 1.0
+description: >
+            Emerald armor! (ACtually just diamond with protection, but believe)
+commands:
+      emeraldarmorhelp:
+          description: Displays the commands for emerald armor
+          usage: /<command>
+
+
+
+

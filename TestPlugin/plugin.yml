@@ -1,0 +1,10 @@
+name: ExpRecipe
+main: me.bukkit.firstflames.MyFirstPlugin.TestingPlugin
+version: 1.0
+description: >
+            Crafting recipes!
+commands:
+
+
+
+

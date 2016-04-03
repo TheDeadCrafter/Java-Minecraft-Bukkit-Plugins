@@ -1,0 +1,9 @@
+name: ColorChat
+main: me.bukkit.ChatColor.spamOff
+version: 1.0
+description: 
+            Chat color
+commands:
+
+
+
